@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-05-31T18:33:22.497Z",
+  "user": null,
+  "inquiriesCount": 0,
+  "inquiriesData": [],
+  "total": 6,
+  "pending": 0,
+  "users": 1
+}
