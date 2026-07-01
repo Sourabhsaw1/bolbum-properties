@@ -3,7 +3,7 @@
 
 ---
 
-live link - bolbum-properties.vercel.app
+live link - [bolbum-properties.vercel.app](https://bolbum-properties.vercel.app/)
 
 ## ⚡ Zero to Running — Step by Step
 
